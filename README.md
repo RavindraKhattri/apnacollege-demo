@@ -1,2 +1,5 @@
 # apnacollege-demo
-this is my first git hub repp - author ravindra k 
+this is my second git hub repp
+->
+author ravindra k 
+....
